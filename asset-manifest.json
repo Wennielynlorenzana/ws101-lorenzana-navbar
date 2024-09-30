@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-lorenzana-navbar/static/css/main.c3a19926.css",
+    "main.js": "/ws101-lorenzana-navbar/static/js/main.d128c9a5.js",
+    "index.html": "/ws101-lorenzana-navbar/index.html",
+    "main.c3a19926.css.map": "/ws101-lorenzana-navbar/static/css/main.c3a19926.css.map",
+    "main.d128c9a5.js.map": "/ws101-lorenzana-navbar/static/js/main.d128c9a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a19926.css",
+    "static/js/main.d128c9a5.js"
+  ]
+}
